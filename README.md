@@ -1,7 +1,7 @@
 ## Hi there 👋, Welcome to my GitHub profile!
 
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate on web/app development related project<br>🤝 I’m looking for help with making a new Web & ML based project<br>🌱 I’m currently learning AWS & TypeScript<br>💬 Ask me about web development<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on AI/ML<br>👯 Open for collaborate on web/app development related project<br>🤝 I’m looking for research based collaboration on ML<br>🌱 I’m an active learner<br>💬 Ask me about web development<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
